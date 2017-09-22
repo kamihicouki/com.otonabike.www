@@ -1,0 +1,13 @@
+body {
+  position: relative;
+}
+.cointaer {
+  position: absolute;
+}
+.jumbotron--ex {
+  height: 100vh;
+  background-color: #FFF8E1;
+  border-style: solid;
+  border-color: #D32F2F;
+  border-width: 0.78em;
+}
