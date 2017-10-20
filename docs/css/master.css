@@ -5,3 +5,13 @@
   border-color: #D32F2F;
   border-width: 0.8em;
 }
+table.ecwid-Checkout-blockTitle button,
+div.ecwid-Checkout-PasswordBlock {
+  display:none;
+}
+table.ecwid-Checkout-blockTitle .ecwid-btn {
+  display: none;
+}
+.ecwid-productBrowser-CheckoutPaymentDetailsPage .ecwid-btn.ecwid-btn--secondary.ecwid-btn--sign_in {
+  display: none;
+}
